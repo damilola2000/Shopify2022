@@ -9,7 +9,7 @@ function Inventory()
     const [warehouse, setWarehouse]=useState("")
     const [all_items, setItems]=useState([])
 
-    const url = "http://localhost:5000/item"
+    const url = " https://quiet-crag-06642.herokuapp.com/"
 
     async function reload() {
         let items = await fetch(url, {
