@@ -6,9 +6,9 @@ To Set up the correct settings to run the program
 
 You will need Python installed (3.6 or higher)
 
-`git clone` <repo>
+`git clone` [repo]
   
-`cd` <repo>
+`cd` [repo]
   
 `pip install virtualenv` (if you don't already have virtualenv installed)
   
