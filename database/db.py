@@ -1,5 +1,5 @@
 import pymongo
-from app.database.secrets import MONOGO_PASSWORD
+from database.secrets import MONOGO_PASSWORD
 
 class MongoDatabase(object):
   def __init__(self):
