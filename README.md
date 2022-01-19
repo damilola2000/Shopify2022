@@ -2,7 +2,7 @@
 
 To Set up the correct settings to run the program
 
-##Environment Set Up
+## Environment Set Up
 
 You will need Python installed (3.6 or higher)
 
@@ -13,7 +13,7 @@ You will need Python installed (3.6 or higher)
 `source venv/bin/activate` to enter the virtual environment
 `pip install -r requirements.txt`  
   
-##Running Program
+## Running Program
   
 Following this you will need to run two terminals:
 1. Set at the `app` directory and run `python ./endpoints`
