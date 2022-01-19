@@ -1,0 +1,1 @@
+MONOGO_PASSWORD = "inventory2022"
