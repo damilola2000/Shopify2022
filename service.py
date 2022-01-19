@@ -1,5 +1,5 @@
-from app.database.db import MongoDatabase as db
-from app.schema import InventorySchema
+from database.db import MongoDatabase as db
+from schema import InventorySchema
 from bson.objectid import ObjectId
 import csv
 

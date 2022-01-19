@@ -1,9 +1,9 @@
 from flask import Flask, Response, request, send_file
 from flask.helpers import send_from_directory
 from flask_cors import CORS, cross_origin
-from app.schema import InventorySchema
+from schema import InventorySchema
 from marshmallow import ValidationError
-from app.service import Service
+from service import Service
 import json
 
 app = Flask(__name__, static_folder='/app/http/web/app/build', static_url_path='/')
