@@ -22,9 +22,9 @@ You will need Python installed (3.6 or higher)
   
 Following this you will need to run two terminals:
   
-1. Set at the `app` directory and run `python ./endpoints`
+1. Set at the working directory and run `python ./endpoints`
   
-2. Set at the `app/http/web/app` directory and run `npm start`. 
+2. Set at the `/http/web/app` directory and run `npm start`. 
   
 Then follow the link provided to open to webpage
   
