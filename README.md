@@ -26,5 +26,5 @@ Following this you will need to run two terminals:
   
 2. Set at the `/http/web/app` directory and run `npm start`. 
   
-Then follow the link provided to open to webpage
+Then follow the link provided to open to webpage: `http://localhost:3000`
   
